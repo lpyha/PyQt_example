@@ -1,4 +1,4 @@
-from PyQt5.QtWidgets import QWidget, QApplication, QDialog
+from PyQt5.QtWidgets import QApplication, QDialog
 
 from buttondialog import Ui_Dialog
 
